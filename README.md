@@ -7,6 +7,7 @@ Key Features:
 - Level progression: Characters gain experience points and level up, improving their attributes like strength, dexterity, and charisma.
 - Game events: Events include battling enemies, recovering health and mana in sanctuaries, and progressing through levels via portals.
 - Graphical user interface (GUI): The game features a GUI using Swing, including login screens, gameplay views, and a final page displaying progress.
+
 Design Patterns Used:
 - Singleton: Ensures a single instance of the Game class to manage the game state globally.
 - Builder: Facilitates the step-by-step creation of complex objects, used for building Information objects.
